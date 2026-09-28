@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Swipo Terms of Use</title>
+  <meta name="description" content="The terms for using Swipo, the on-device photo cleaner.">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --surface: #f5f6fa;
+      --border: #e3e5ee;
+      --text: #14171f;
+      --text-2: #4a5061;
+      --muted: #7a8194;
+      --accent: #4f46e5;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #080a0f;
+        --surface: #141820;
+        --border: #1c2230;
+        --text: #eef0f5;
+        --text-2: #b3b9c8;
+        --muted: #7d8497;
+        --accent: #818cf8;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+    main { max-width: 720px; margin: 0 auto; padding: 40px 16px 64px; }
+    .brand { font-weight: 800; font-size: 15px; letter-spacing: 0.02em; color: var(--accent); text-decoration: none; }
+    h1 { font-size: 30px; line-height: 1.2; margin: 12px 0 6px; letter-spacing: -0.02em; }
+    .effective { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; margin: 0 0 20px; }
+    .intro { font-size: 18px; color: var(--text); margin: 0 0 28px; }
+    section { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 18px 20px; margin: 0 0 12px; }
+    h2 { font-size: 17px; margin: 0 0 6px; }
+    p { color: var(--text-2); margin: 0; }
+    p + p { margin-top: 8px; }
+    a { color: var(--accent); }
+    footer { margin-top: 28px; font-size: 14px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px 20px; }
+  </style>
+</head>
+<body>
+  <main>
+    <a class="brand" href="terms.html">Swipo</a>
+    <h1>Terms of Use</h1>
+    <p class="effective">Effective September 28, 2026</p>
+    <p class="intro">By using Swipo you agree to these terms. Please read them — they’re short.</p>
+
+    <section>
+      <h2>Using the app</h2>
+      <p>Swipo helps you review and clean up the photos and videos on your phone. You may use it for your own personal, non-commercial purposes.</p>
+    </section>
+
+    <section>
+      <h2>Your decisions</h2>
+      <p>You decide what to keep and what to delete. Suggestions such as duplicates, blurry photos and large videos are made automatically and can be wrong, so review items before deleting them. You are responsible for what you choose to delete.</p>
+    </section>
+
+    <section>
+      <h2>Deletion</h2>
+      <p>Deleted items can’t be recovered through Swipo. On iPhone they stay in Recently Deleted in Photos for 30 days; on Android, deletion is permanent. Keep backups of anything important.</p>
+    </section>
+
+    <section>
+      <h2>Estimates</h2>
+      <p>File sizes, storage figures and the space you free are estimates and may differ from what your phone reports.</p>
+    </section>
+
+    <section>
+      <h2>No warranty</h2>
+      <p>Swipo is provided “as is”, without warranties of any kind. To the extent the law allows, we are not liable for any loss of data or other damages that result from using the app.</p>
+    </section>
+
+    <section>
+      <h2>Free version and Premium</h2>
+      <p>The free version lets you review your whole library and clean up screenshots, chat media, large videos and your albums. You can delete 100 items (up to 1 GB) for free at first, then 25 items (up to 100 MB) each week. Premium adds Duplicates &amp; Bursts, Blurry Photos and Smart Clean-Up, and removes the deletion limits.</p>
+    </section>
+
+    <section>
+      <h2>Premium and subscriptions</h2>
+      <p>Premium is available as a monthly or yearly subscription, or as a one-time lifetime purchase. Subscriptions renew automatically until you cancel; cancel at least 24 hours before the current period ends in your Google Play or App Store account settings. Payments and refunds are handled by Google Play or the App Store under their terms.</p>
+      <p>Premium is linked to your Google Play or App Store account: use “Restore Purchases” to get it back on a new phone. A lifetime purchase lasts for as long as Swipo is offered. We may change features and prices; changes never affect a period you’ve already paid for.</p>
+    </section>
+
+    <section>
+      <h2>Changes to these terms</h2>
+      <p>We may update these terms; the current version is always available in the app and on this page.</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Questions? Email <a href="mailto:pixsova@gmail.com">pixsova@gmail.com</a>.</p>
+    </section>
+
+    <footer>
+      <span>© 2026 Swipo</span>
+      <a href="privacy.html">Privacy Policy</a>
+    </footer>
+  </main>
+</body>
+</html>
