@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pauzzo Terms of Use</title>
+<meta name="description" content="The terms for using Pauzzo, its free trial and Pauzzo Pro.">
+<style>
+  :root {
+    --bg: #F4F7F5; --card: #FFFFFF; --text: #1D2B2A; --muted: #5E6B69;
+    --pine: #0E5E57; --tint: #E3F4EE; --line: #E3E8E6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0F1B1E; --card: #16262A; --text: #EAF2EF; --muted: #8FA3A0;
+      --pine: #7FE3C8; --tint: #203B3B; --line: #22363A;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0F1B1E; --card: #16262A; --text: #EAF2EF; --muted: #8FA3A0;
+    --pine: #7FE3C8; --tint: #203B3B; --line: #22363A;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 4px; letter-spacing: -0.5px; }
+  h2 { font-size: 20px; margin: 36px 0 8px; color: var(--pine); }
+  .muted { color: var(--muted); }
+  .summary { background: var(--tint); border-radius: 16px; padding: 16px 20px; margin: 24px 0; }
+  .summary ul { margin: 8px 0 0; padding-left: 20px; }
+  a { color: var(--pine); }
+  .fill { background: #FBEBD0; color: #1D2B2A; padding: 0 4px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Terms of Use</h1>
+  <p class="muted">Pauzzo · Effective 30 October 2026</p>
+
+  <div class="summary">
+    <strong>The short version</strong>
+    <ul>
+      <li>Pauzzo adds a short pause before the apps you choose. It's a tool to help you, not a lock, and not medical advice.</li>
+      <li>You get a <strong>2-day free trial</strong> with no payment. After it, Pauzzo stops guarding your apps unless you choose a plan.</li>
+      <li>Weekly and yearly plans <strong>renew automatically</strong> until you cancel in Google Play or the App Store. Lifetime is a one-time purchase.</li>
+    </ul>
+  </div>
+
+  <h2>1. About these terms</h2>
+  <p>These terms are an agreement between you and <span class="fill">[your full name or company name]</span> (“we”, “us”) for your use of the Pauzzo app (“Pauzzo”). By downloading or using Pauzzo you agree to them. If you don't agree, please don't use Pauzzo. Our <a href="privacy.html">Privacy Policy</a> explains how we handle your data.</p>
+
+  <h2>2. What Pauzzo is</h2>
+  <p>Pauzzo helps you use your phone more intentionally. When you open an app or website you've chosen to guard, it shows a short pause first, with options such as a quick real-life task or “I don't need this”. You can always continue to the app after the pause. Pauzzo also shows your screen time, progress, streaks and a weekly summary.</p>
+  <p>Pauzzo is a <strong>wellbeing tool</strong>. It is not a medical, psychological or therapeutic service, and it isn't a substitute for professional help. If you're worried about your phone use or your mental health, please talk to a qualified professional.</p>
+
+  <h2>3. Who can use Pauzzo</h2>
+  <p>You must be at least 13 years old (or the minimum age in your country) to use Pauzzo. If you're under the age of majority where you live, you need a parent's or guardian's permission, including for any purchase.</p>
+
+  <h2>4. Permissions and how well it works</h2>
+  <p>To work, Pauzzo needs permissions on your phone, such as Usage access, the Accessibility Service, “Display over other apps”, notifications and an exception from battery optimisation. You can withdraw them at any time; Pauzzo then can't guard your apps.</p>
+  <p>Phones, operating systems and apps vary and change. We work hard to make Pauzzo reliable, but we can't promise it will catch every open of every app or website, show every pause or notification on time, or that screen-time figures will always be exact. Your phone's own settings (for example battery saving) can stop Pauzzo from working.</p>
+
+  <h2>5. Free trial</h2>
+  <p>You can start a <strong>free 2-day trial</strong> of Pauzzo, with full access, from the screen shown after setup. The trial needs no payment and nothing is charged when it ends. The trial can be used <strong>once per person</strong>, including after reinstalling the app. When the trial ends, Pauzzo stops guarding your apps until you choose a plan; you can still open the app and see your history.</p>
+
+  <h2>6. Pauzzo Pro plans and payment</h2>
+  <ul>
+    <li><strong>Weekly and yearly plans</strong> are subscriptions. They're charged to your Google Play or App Store account when you confirm the purchase, and <strong>renew automatically</strong> at the end of each period at the then-current price, unless you cancel at least 24 hours before the period ends.</li>
+    <li><strong>Lifetime</strong> is a one-time payment for Pauzzo Pro for as long as we offer and support Pauzzo.</li>
+    <li><strong>Prices</strong> are shown in the app before you buy, in your local currency, and may include taxes. We may change prices; any change to a subscription applies from your next renewal and is communicated as the store requires.</li>
+    <li><strong>Cancelling:</strong> manage or cancel your subscription at any time in Google Play (Payments &amp; subscriptions) or your App Store account settings. Uninstalling Pauzzo does not cancel a subscription. After cancelling, Pro continues until the end of the period you've paid for.</li>
+    <li><strong>Refunds</strong> are handled by Google Play or Apple under their refund policies. We can't issue refunds directly, except where the law requires it.</li>
+    <li><strong>Restoring:</strong> if you reinstall Pauzzo or change phones, use “Restore purchases” in the app, signed in to the same store account.</li>
+  </ul>
+
+  <h2>7. Your responsibilities</h2>
+  <p>Please use Pauzzo only for its intended purpose and in line with the law. Don't copy, modify, reverse-engineer, resell or interfere with Pauzzo, or try to get around its free trial or payments, except where the law allows it.</p>
+
+  <h2>8. Ownership</h2>
+  <p>Pauzzo, including its design, text, graphics, the Blip character and its code, belongs to us and our licensors. We give you a personal, non-exclusive, non-transferable, revocable licence to use Pauzzo on devices you own or control, under these terms and the rules of the store you got it from. Anything you type into Pauzzo (such as your reason or custom tasks) stays yours, and stays on your phone.</p>
+
+  <h2>9. Changes and availability</h2>
+  <p>We may update, change or stop parts of Pauzzo, for example to improve it, fix problems or follow the law. If we stop offering Pauzzo Pro altogether, we'll tell you in advance where we can.</p>
+
+  <h2>10. Disclaimer</h2>
+  <p>Pauzzo is provided “as is” and “as available”. To the extent the law allows, we make no promises beyond those in these terms, including that Pauzzo will be uninterrupted, error-free, or that it will change your habits or reduce your screen time. Your use of your phone and of other apps is your own choice and responsibility.</p>
+
+  <h2>11. Limitation of liability</h2>
+  <p>To the extent the law allows, we aren't liable for indirect, incidental or consequential losses, or for missed notifications, messages, calls or content resulting from using Pauzzo. Our total liability to you for any claim related to Pauzzo is limited to the amount you paid for Pauzzo in the 12 months before the claim. Nothing in these terms limits liability that can't be limited by law, or your rights as a consumer under the laws of your country.</p>
+
+  <h2>12. Ending these terms</h2>
+  <p>You can stop using Pauzzo at any time by uninstalling it (and cancelling any subscription in your store account). We may suspend or end your use of Pauzzo if you seriously break these terms.</p>
+
+  <h2>13. Apple App Store</h2>
+  <p>If you got Pauzzo from the App Store, Apple's <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Licensed Application End User License Agreement</a> also applies. These terms are between you and us, not Apple; Apple has no responsibility for Pauzzo or its support, and is a third-party beneficiary of these terms.</p>
+
+  <h2>14. Changes to these terms</h2>
+  <p>We may update these terms. We'll change the date at the top and, for important changes, let you know in the app. If you keep using Pauzzo after a change, the new terms apply.</p>
+
+  <h2>15. Governing law</h2>
+  <p>These terms are governed by the laws of <span class="fill">[your country / state]</span>, without affecting any mandatory consumer protections in the country where you live. Disputes will be handled by the courts of <span class="fill">[your city / country]</span>, unless your local law gives you the right to go to your local courts.</p>
+
+  <h2>16. Contact</h2>
+  <p><span class="fill">[your full name or company name]</span> · <span class="fill">[postal address]</span><br>
+  <a href="mailto:pixsova@gmail.com">pixsova@gmail.com</a></p>
+</main>
+</body>
+</html>
