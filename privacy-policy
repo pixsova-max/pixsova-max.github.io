@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pauzzo Privacy Policy</title>
+<meta name="description" content="How Pauzzo handles your data: your screen time stays on your phone.">
+<style>
+  :root {
+    --bg: #F4F7F5; --card: #FFFFFF; --text: #1D2B2A; --muted: #5E6B69;
+    --pine: #0E5E57; --tint: #E3F4EE; --line: #E3E8E6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0F1B1E; --card: #16262A; --text: #EAF2EF; --muted: #8FA3A0;
+      --pine: #7FE3C8; --tint: #203B3B; --line: #22363A;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0F1B1E; --card: #16262A; --text: #EAF2EF; --muted: #8FA3A0;
+    --pine: #7FE3C8; --tint: #203B3B; --line: #22363A;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 4px; letter-spacing: -0.5px; }
+  h2 { font-size: 20px; margin: 36px 0 8px; color: var(--pine); }
+  h3 { font-size: 16px; margin: 20px 0 4px; }
+  p, li { color: var(--text); }
+  .muted { color: var(--muted); }
+  .summary { background: var(--tint); border-radius: 16px; padding: 16px 20px; margin: 24px 0; }
+  .summary ul { margin: 8px 0 0; padding-left: 20px; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 15px; }
+  th, td { text-align: left; vertical-align: top; padding: 10px 8px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+  .table-wrap { overflow-x: auto; }
+  a { color: var(--pine); }
+  .fill { background: #FBEBD0; color: #1D2B2A; padding: 0 4px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Privacy Policy</h1>
+  <p class="muted">Pauzzo · Effective 30 October 2026</p>
+
+  <div class="summary">
+    <strong>The short version</strong>
+    <ul>
+      <li>Your screen time, the apps you guard and how you use them <strong>stay on your phone</strong>. We never see them.</li>
+      <li>There's <strong>no account</strong> and <strong>no ads</strong>, and we <strong>never sell</strong> your data.</li>
+      <li>We use Firebase (by Google) for anonymous app statistics and crash reports, and RevenueCat to handle subscriptions. Neither receives your screen time, app names or website names.</li>
+    </ul>
+  </div>
+
+  <h2>1. Who we are</h2>
+  <p>Pauzzo (“the app”, “we”, “us”) is made by <span class="fill">[your full name or company name]</span>, <span class="fill">[postal address]</span>. If you have any question about this policy or your data, write to <a href="mailto:pixsova@gmail.com">pixsova@gmail.com</a>.</p>
+
+  <h2>2. What Pauzzo does</h2>
+  <p>Pauzzo puts a short pause between you and the apps and websites you choose to guard, so that opening them becomes a choice rather than a habit. To do this it needs to know when a guarded app or website is opened, and how much time you spend on your guarded apps. Everything Pauzzo works out about your habits is worked out on your phone.</p>
+
+  <h2>3. Data that stays on your phone</h2>
+  <p>The following is stored only on your device. We have no access to it.</p>
+  <ul>
+    <li><strong>Screen time and app usage.</strong> With your permission (Android “Usage access”), Pauzzo reads your phone's own usage records to show your daily time, your usual day before Pauzzo, and your progress.</li>
+    <li><strong>The apps and websites you guard</strong>, your daily goal, level, morning and bedtime times, and other settings.</li>
+    <li><strong>Your activity in Pauzzo</strong>: pauses, times you resisted, sessions, tasks, streaks and your weekly summary (“Wrapped”).</li>
+    <li><strong>Anything you type</strong>, such as your reason for cutting back, custom tasks, or a reason typed on a pause.</li>
+    <li><strong>Reminders</strong> (such as the 1-minute warning) are scheduled on your phone. No notification content is sent to us.</li>
+  </ul>
+
+  <h3>The Accessibility Service (Android)</h3>
+  <p>To show your pause the moment a guarded app or website opens, Pauzzo uses Android's Accessibility Service. It reads <strong>which app is on screen</strong> and, in supported browsers, <strong>the address in the address bar</strong>, only to check whether it's one you chose to guard. It does <strong>not</strong> read your messages, what you type, passwords or the content of other apps, and nothing it sees leaves your phone. You can switch it off at any time in your phone's Accessibility settings; Pauzzo then can't show pauses.</p>
+
+  <h3>Backup for reinstalls (Android)</h3>
+  <p>So you don't lose your settings, streak and free-trial status if you reinstall the app, Pauzzo saves a small copy of them with Google's <strong>Block Store</strong>, part of Google Play services on your phone. If you have Google backup turned on, Google may include this copy in your device backup, which is end-to-end encrypted. It contains your settings and progress (including the names of the apps you guard), but not your screen-time history. We can't read it.</p>
+
+  <h3>Sharing images</h3>
+  <p>When you choose to share a card (for example your weekly summary), the image is created on your phone and sent only where you choose to share it.</p>
+
+  <h2>4. Data that leaves your phone</h2>
+  <p>A small amount of data is sent to two service providers. None of it includes your screen time, the names of the apps or websites you guard, task names or anything you type.</p>
+
+  <div class="table-wrap">
+  <table>
+    <tr><th>Service</th><th>What it receives</th><th>Why</th></tr>
+    <tr>
+      <td><strong>Firebase Analytics</strong> (Google)</td>
+      <td>Anonymous events such as “a pause was shown”, “resisted”, “session started (5, 10 or 15 min)”, “trial started” or “purchase completed”; which screens of Pauzzo were viewed; a random app-instance ID; device type, operating system and app version; approximate region derived from your IP address.</td>
+      <td>To understand how Pauzzo is used and make it better.</td>
+    </tr>
+    <tr>
+      <td><strong>Firebase Crashlytics</strong> (Google)</td>
+      <td>Crash and error reports: technical details of the error, device type, operating system, app version, a random installation ID, and the Pauzzo screens visited just before it.</td>
+      <td>To find and fix bugs.</td>
+    </tr>
+    <tr>
+      <td><strong>RevenueCat</strong></td>
+      <td>An anonymous app user ID, which plan you bought or restored, its price and currency, and the purchase records from Google Play or the App Store.</td>
+      <td>To know whether you have Pauzzo Pro, including after a reinstall or on a new phone.</td>
+    </tr>
+  </table>
+  </div>
+  <p>Analytics are not collected in development versions of the app. Payments themselves are handled entirely by Google Play or the App Store; we never see your card or payment details.</p>
+  <p>These providers process data on our behalf under their own terms and privacy policies: <a href="https://firebase.google.com/support/privacy">Firebase</a>, <a href="https://policies.google.com/privacy">Google</a> and <a href="https://www.revenuecat.com/privacy">RevenueCat</a>. They may process data in the United States and other countries.</p>
+
+  <h2>5. What we don't do</h2>
+  <ul>
+    <li>We don't sell or rent your data, or share it for advertising.</li>
+    <li>We don't show ads or use advertising IDs for tracking.</li>
+    <li>We don't create accounts or ask for your name, email or phone number.</li>
+    <li>We don't receive your screen time, app list, browsing or anything you type.</li>
+  </ul>
+
+  <h2>6. Legal bases (EU, EEA and UK)</h2>
+  <p>We process the limited data in section 4 on the basis of our <strong>legitimate interest</strong> in keeping Pauzzo working and improving it (analytics and crash reports), and to <strong>perform our contract</strong> with you (managing your subscription). The data in section 3 never reaches us.</p>
+
+  <h2>7. How long data is kept</h2>
+  <ul>
+    <li><strong>On your phone:</strong> until you delete it or uninstall Pauzzo. The Block Store copy can be removed by clearing Google Play services data or your Google backup.</li>
+    <li><strong>Firebase Analytics:</strong> event data is kept for up to 14 months.</li>
+    <li><strong>Firebase Crashlytics:</strong> crash reports are kept for up to 90 days.</li>
+    <li><strong>RevenueCat:</strong> purchase records are kept as long as needed to provide your subscription and meet legal and tax requirements.</li>
+  </ul>
+
+  <h2>8. Your choices and rights</h2>
+  <ul>
+    <li>You can revoke Usage access, the Accessibility Service, notifications and other permissions at any time in your phone's settings.</li>
+    <li>Uninstalling Pauzzo deletes the data stored by the app on your phone.</li>
+    <li>Depending on where you live (for example under the GDPR or the CCPA), you may have the right to access, correct, delete or object to the processing of your data, and to complain to a data protection authority. Because we don't know who you are, we may need the app-instance ID or purchase details to find your data. Write to <a href="mailto:pixsova@gmail.com">pixsova@gmail.com</a> and we'll help.</li>
+  </ul>
+
+  <h2>9. Children</h2>
+  <p>Pauzzo is not directed at children under 13 (or under 16 where local law requires it), and we don't knowingly collect data from them.</p>
+
+  <h2>10. Security</h2>
+  <p>Data on your phone is protected by your device's own security. Data sent to our providers travels over encrypted connections. No method is perfectly secure, but keeping your screen time on your phone means it's never exposed on our side.</p>
+
+  <h2>11. Changes to this policy</h2>
+  <p>If we change this policy, we'll update the date at the top and, for important changes, let you know in the app.</p>
+
+  <h2>12. Contact</h2>
+  <p><span class="fill">[your full name or company name]</span> · <span class="fill">[postal address]</span><br>
+  <a href="mailto:pixsova@gmail.com">pixsova@gmail.com</a></p>
+</main>
+</body>
+</html>
